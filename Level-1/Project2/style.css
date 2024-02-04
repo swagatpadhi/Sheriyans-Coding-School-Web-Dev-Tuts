@@ -140,6 +140,7 @@ body {
   border-bottom: 2px solid black;
 }
 #work2sub2 {
+  margin-left: 30px;
   font-size: 40px;
   padding: 16px;
   display: flex;
